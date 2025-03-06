@@ -2,6 +2,8 @@
 
 Life Dots is a web application that visualizes your life journey through a simple dot-based interface.
 
+![Life Dots](./public/life-dots.png 'Life Dots')
+
 ## Features
 
 - **Interactive Dot Visualization**: View your life as a series of dots representing each year or month.
